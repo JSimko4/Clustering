@@ -1,0 +1,38 @@
+Dlzka vykonavania Divizivne klastrovanie pomocou centroidu: 0.265625s
+
+Priemerna vzdialenost klastra c. 0: 139.6572593173764
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 1: 148.99006604950074
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 2: 144.40219390859974
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 3: 187.28064696978907
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 4: 160.54219461904918
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 5: 171.04490730820228
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 6: 154.9191486532896
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 7: 274.27588385802443
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 8: 266.39261698262646
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 9: 189.63434735802068
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 10: 194.53915553403718
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 11: 168.50662100793016
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 12: 144.3298742109069
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 13: 117.11743135719196
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 14: 182.16541228250077
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 15: 157.38160911578763
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 16: 166.34085595987696
+Uspesnost = 100%
+
+USPESNOST: 17/17

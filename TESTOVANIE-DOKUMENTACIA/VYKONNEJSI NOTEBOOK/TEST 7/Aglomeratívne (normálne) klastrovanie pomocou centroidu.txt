@@ -1,0 +1,34 @@
+Dlzka vykonavania Aglomeratívne (normálne) klastrovanie pomocou centroidu: 5059.578125s
+
+Priemerna vzdialenost klastra c. 0: 318.20146939034163
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 1: 150.4192254685347
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 2: 164.58290378618454
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 3: 511.6914963980179
+Uspesnost = 0%
+Priemerna vzdialenost klastra c. 4: 299.2545118295434
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 5: 209.6573978623712
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 6: 413.0782971667559
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 7: 161.83238991432444
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 8: 128.64331141862135
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 9: 448.8227549728657
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 10: 176.83435786203225
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 11: 180.06466581466532
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 12: 131.52157742571262
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 13: 158.22121601264206
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 14: 156.2182928315841
+Uspesnost = 100%
+
+USPESNOST: 14/15

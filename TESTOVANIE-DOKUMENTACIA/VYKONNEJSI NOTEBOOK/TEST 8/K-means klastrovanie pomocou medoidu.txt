@@ -1,0 +1,38 @@
+Dlzka vykonavania K-means klastrovanie pomocou medoidu: 65.265625s
+
+Priemerna vzdialenost klastra c. 0: 92.1473857943508
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 1: 160.39305516077286
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 2: 142.43338917537778
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 3: 117.09585803641765
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 4: 350.3923377305385
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 5: 122.13824521056702
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 6: 246.98639771615274
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 7: 1215.2527709910719
+Uspesnost = 0%
+Priemerna vzdialenost klastra c. 8: 531.9085397509356
+Uspesnost = 0%
+Priemerna vzdialenost klastra c. 9: 194.41017413018216
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 10: 264.353968975623
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 11: 1193.2929307131574
+Uspesnost = 0%
+Priemerna vzdialenost klastra c. 12: 92.36635203120325
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 13: 135.80832577987812
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 14: 154.81898576664503
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 15: 170.9276008614102
+Uspesnost = 100%
+Priemerna vzdialenost klastra c. 16: 91.92867867716025
+Uspesnost = 100%
+
+USPESNOST: 14/17

@@ -1,0 +1,38 @@
+Dåka vykonávania K-means klastrovanie pomocou medoidu: 100.796875s
+
+Priemerná vzdialenost klastra è. 0: 92.21970120328697
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 1: 458.13186165215126
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 2: 60.18679872242339
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 3: 901.0363339667527
+Úspešnos = 0%
+Priemerná vzdialenost klastra è. 4: 556.8699033049561
+Úspešnos = 0%
+Priemerná vzdialenost klastra è. 5: 86.43231197643138
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 6: 94.54800677592183
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 7: 727.5847030820916
+Úspešnos = 0%
+Priemerná vzdialenost klastra è. 8: 98.10859302422757
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 9: 164.333348298425
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 10: 160.78699169044444
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 11: 104.02696898417271
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 12: 606.9447161241563
+Úspešnos = 0%
+Priemerná vzdialenost klastra è. 13: 578.3158636887936
+Úspešnos = 0%
+Priemerná vzdialenost klastra è. 14: 99.05899623154504
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 15: 115.703273203123
+Úspešnos = 100%
+Priemerná vzdialenost klastra è. 16: 119.5572060282498
+Úspešnos = 100%
+
+ÚSPEŠNOS: 12/17
